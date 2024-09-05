@@ -1,7 +1,3 @@
-Here’s a fun and engaging README for your **Drowsy Driver Detection using CNN** project with emojis:
-
----
-
 ## 🚗💤 Drowsy Driver Detection using CNN
 
 ### Overview
